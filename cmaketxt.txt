@@ -1,0 +1,1 @@
+cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_PREFIX_PATH=/home/io500/rdma-based-rpc/install/lib/x86_64-linux-gnu -DCMAKE_INSTALL_PREFIX=/home/io500/test_rpc/install ..
